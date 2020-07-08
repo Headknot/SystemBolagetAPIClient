@@ -1,2 +1,2 @@
-# script_collection
-This repository is mainly for smaller scripts that can be useful but doesn't warrant it's own repo/package.
+# SystemBolagetAPIClient
+My take on an APIClient for one of Systembolagets open APIs (sortimentsfilen.xml).
